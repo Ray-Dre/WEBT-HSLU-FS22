@@ -1,0 +1,54 @@
+  <a href="http://www.pathofexile.com">Path of Exile</a>
+<nav> 
+    <ul>Information
+       <li> <a href="Information"> Path of Exile Information</a></li>
+       <li> <a href="Fanshop Hoodies"> Fanshop Hoodies</a></li>
+    </ul>
+</nav>
+
+</head>
+<section id="Path of Exile Information">
+<article> <p id="Information"> Path of Exile Information</p>  
+Path of Exile ein ARPG Spiel der extra Klasse. Spielbar auf Xbox Pc und Playstation.
+</article>
+
+
+
+
+
+<form> action "Fanshop Hoodies">
+    <h1>Namen</h1>
+    <label for="Vorname">Vorname</label>
+    <input type="text" id="Vorname" name="Vorname">
+    <label for="Nachname">Nachname</label>
+    <input type="text" id="Nachname" name="Nachname">
+    <h2>Auswahl der Grösse</h2>
+    <label for="Grösse">Grösse:
+        <select name="Pullover" >
+            <option value="M">M</option>
+            <option value="L">L</option>
+            <option value="XL">XL</option>
+        </select>
+    </label>
+    <h3>Farbenauswahl</h3>
+    <label for="Farbe">Farbe:
+        <select name="Farbe" >
+            <option value="Grün">Grün</option>
+            <option value="Rot">Rot</option>
+            <option value="Schwarz">Schwarz</option>
+        </select>
+    </label>
+    <h4>Anzahl</h4>
+    <label for="Anzahl">Anzahl</label>
+    <input type="text" id="Anzahl" name="Anzahl">
+    <h5>Preis</h5>
+    <label for="Preis">15 Sfr pro Stk </label>
+
+    <h6>Bestellen</h6>
+    <button type="sumit"> Eingaben Absenden</button>    
+
+</form>
+
+
+</article>
+</section>

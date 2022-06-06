@@ -1,0 +1,24 @@
+/*Einbinden Google Schrift*/
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Blaka+Hollow&display=swap');
+</style>
+font-family: 'Blaka Hollow', cursive;
+
+/*Eigenschaften Titeln Shop*/
+h1, h2, h3, h4, h5, h6{
+color: crimson;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: left;
+}
+/*Eigenschaften Shop auswahl Dokument*/
+label{
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*Eigenschaften Titel des Dokumentes */
+ul{
+color: blue;
+font-family: 'Courier New', Courier, monospace;
+text-align:center
+}
+
